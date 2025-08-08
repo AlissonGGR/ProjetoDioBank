@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Projeto DioBank</title>
 </head>
 <body>
   <h1>🏦 Projeto DioBank - IA para Geração de SQL com Linguagem Natural</h1>
