@@ -22,6 +22,7 @@
   <ul>
     <li>Python 3.11</li>
     <li>Streamlit</li>
+    <li>Panda</li>
     <li>MySQL</li>
     <li>MySQL Connector (mysql-connector-python)</li>
     <li>OpenAI API (ChatGPT)</li>
