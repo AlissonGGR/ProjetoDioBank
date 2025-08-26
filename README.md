@@ -45,9 +45,6 @@
     <li>Execute o projeto com <code>streamlit run agentes/terminal_agent.py</code></li>
   </ol>
 
-  <h2>📷 Capturas de Tela</h2>
-  <p>As capturas estão disponíveis na pasta <code>/images</code>.</p>
-
   <h2>🚀 Resultado</h2>
   <p>O agente foi capaz de compreender perguntas como:</p>
   <ul>
